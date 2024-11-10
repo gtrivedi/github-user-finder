@@ -9,7 +9,10 @@ Prerequisites
 Ensure that you have the following installed on your machine:
 
 1: Node.js (v16.0.0 or later)
+
 2: npm (or yarn if you prefer)
+ 
+3: Next 13+ version with App Router ( used: Next 15 )
 
 # Getting Started
 
@@ -70,6 +73,10 @@ View user profiles and their repositories.
 Tailwind CSS for styling.
 
 TypeScript for type safety.
+
+# Live Demo
+
+https://github-user-finder-8udsudvnr-gaurav-trivedis-projects-82521d38.vercel.app/
 
 # License
 
